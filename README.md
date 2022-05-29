@@ -1,0 +1,1 @@
+Тестовый проект на ReactJS с TypeScript, axios, bootstrap
